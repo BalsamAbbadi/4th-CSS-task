@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 1000px;
+    gap: 10px;
+
+}
+.son{
+    width: 30%;
+    margin: 0;
+}
+
+img{
+    width: 99%;
+
+}
+
+
